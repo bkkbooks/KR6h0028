@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6h0028/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 拔陂菩薩經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T13/T13n0419.xml
+    old_id: T13n0419
+hash: sha256:380c8880456598c5e3024225f852d39576b0cf3f089fa868ecd68c8aac842822
