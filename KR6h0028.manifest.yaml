@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6h0028/v1
 canonical_location: https://kanripo.org/bkk/KR6h0028/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 拔陂菩薩經
   identifiers:
@@ -40,10 +40,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6h0028_000.yaml, hash: 'sha256:380c8880456598c5e3024225f852d39576b0cf3f089fa868ecd68c8aac842822'}
-  - {seq: 1, filename: KR6h0028_001.yaml, hash: 'sha256:e758256cc9da16e54819222f4573da2830292dfcfad3abe00f9205b30265a1fb'}
+  - {seq: 1, filename: KR6h0028_001.yaml, hash: 'sha256:bca4e4d8b3ac2d16dccd41fbacb53678bb25e5a52219e6db074d811f2c87d0d4'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6h0028_000.markers.yaml, hash: 'sha256:b3caeef87f0f2b3fc075c236e8939a936f44d9b2a81c9279c78581352bf1e41f'}
-  - {seq: 1, role: markers, filename: assets/KR6h0028_001.markers.yaml, hash: 'sha256:6b675630e9319d037d42541ad72bcd1dbfa0ce699514bcda0aa439832c425879'}
+  - {seq: 1, role: markers, filename: assets/KR6h0028_001.markers.yaml, hash: 'sha256:ca16d33a115b84d2bf819390c74e7493f44518c7c4e885144644fee189637886'}
 table_of_contents:
 - ref:
     seq: 1
@@ -55,4 +55,7 @@ table_of_contents:
   label: 拔陂菩薩經
   type: juan
   level: 1
-hash: sha256:530caba41db735cd44635645278f696160a8f2ee243f9e822a64a0c19de78183
+hash: sha256:f744e5a436c83a46fe72fd9fe340cdac9764cfc568638416625baa4cea63dcce
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
